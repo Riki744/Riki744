@@ -1,5 +1,13 @@
 Hi, I'm @Riki744
 
+Cyber Security apprentice who sometimes like to learn coding, creating new tools or do some hacking CTF's, but basically learning new stuff everyday related to Cyber Security
+
+Follow me on 
+
+TryHackMe - 
+HackTheBox - 
+Twitter - https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg
+
 
 
 <!---
