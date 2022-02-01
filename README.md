@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Riki744
-- 👀 I’m interested in Information Security
-- 🌱 I’m currently learning ways of Penetration testing
-- My code probably is terrible, but it runs
+Hi, I'm @Riki744
+
+
 
 <!---
 Riki744/Riki744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
