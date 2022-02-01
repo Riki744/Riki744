@@ -2,11 +2,11 @@ Hi, I'm @Riki744
 
 Cyber Security apprentice who sometimes like to learn coding, creating new tools or do some hacking CTF's, but basically learning new stuff everyday related to Cyber Security
 
-Follow me on 
+2022 Goals: Pass 4 industry level certs in Cyber Security (Sec+, BTL1, eJPT, will so how will be the 4th one)
 
-TryHackMe - 
-HackTheBox - 
-Twitter - https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg
+Connect with me:
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg
+ 
 
 
 
