@@ -28,9 +28,9 @@
 
 I am a Cyber Security Apprentice from Latvia.
 
-- :telescope: I’m learning coding/programming langauges such as Python, Powershell, Bash.
+- :telescope: I’m learning coding/scripting langauges such as Python, Powershell, Bash.
 - :seedling: Exploring hands-on trainings on TryHackMe, HackTheBox, OverTheWire, PicoCTF, RangeForce.
-- :zap: 2022 Goals: Pass 3 industry level certs in Cyber Security (Sec+, BTL1, eJPT)
+- :zap: 2022 Goals: Earn certifications in Cyber Security (Sec+, BTL1, eJPT)
 
 
 
