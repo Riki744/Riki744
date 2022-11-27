@@ -30,7 +30,7 @@ I am a Cyber Security Apprentice from Latvia.
 
 - :telescope: From time to time trying to get better at writing code in Python / PowerShell / Bash
 - :seedling: Exploring hands-on trainings on TryHackMe, HackTheBox, OverTheWire, PicoCTF, RangeForce, BTLO.
-- :zap: Certifications - eJPT
+- :zap: Certifications - eJPT, BTJA
 
 
 
